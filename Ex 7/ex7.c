@@ -1,3 +1,4 @@
+/*Create a multithreaded string processing server the producer thread, generate random string and stores them in a shared buffer*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
