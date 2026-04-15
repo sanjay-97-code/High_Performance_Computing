@@ -1,0 +1,61 @@
+[Thread 2] String: akzfcjywgm | Is Palindrome: No
+[Thread 2] String: eucowyvwcv | Is Palindrome: No
+[Thread 2] String: cnwlivewmo | Is Palindrome: No
+[Thread 2] String: loamtcwtae | Is Palindrome: No
+[Thread 2] String: heakuyisum | Is Palindrome: No
+[Thread 2] String: nyblkjjqgv | Is Palindrome: No
+[Thread 2] String: gtjgielgzn | Is Palindrome: No
+[Thread 2] String: mhunronbik | Is Palindrome: No
+[Thread 2] String: nwiojuxslf | Is Palindrome: No
+[Thread 2] String: ptbacjgnpg | Is Palindrome: No
+[Thread 2] String: cbnwqgnehv | Is Palindrome: No
+[Thread 2] String: qwtykdvjxg | Is Palindrome: No
+[Thread 2] String: rpbspddwsu | Is Palindrome: No
+[Thread 2] String: cvvrroxgug | Is Palindrome: No
+[Thread 2] String: ckeviqadza | Is Palindrome: No
+[Thread 2] String: lsppmespcl | Is Palindrome: No
+[Thread 2] String: jgghxzvwgp | Is Palindrome: No
+[Thread 2] String: eibiflygra | Is Palindrome: No
+[Thread 2] String: gcsxrhdmwg | Is Palindrome: No
+[Thread 2] String: ximfpmemkm | Is Palindrome: No
+[Thread 1] Original: akzfcjywgm | Reversed: mgwyjcfzka
+[Thread 1] Original: eucowyvwcv | Reversed: vcwvywocue
+[Thread 1] Original: cnwlivewmo | Reversed: omwevilwnc
+[Thread 1] Original: loamtcwtae | Reversed: eatwctmaol
+[Thread 1] Original: heakuyisum | Reversed: musiyukaeh
+[Thread 1] Original: nyblkjjqgv | Reversed: vgqjjklbyn
+[Thread 1] Original: gtjgielgzn | Reversed: nzgleigjtg
+[Thread 1] Original: mhunronbik | Reversed: kibnornuhm
+[Thread 1] Original: nwiojuxslf | Reversed: flsxujoiwn
+[Thread 1] Original: ptbacjgnpg | Reversed: gpngjcabtp
+[Thread 1] Original: cbnwqgnehv | Reversed: vhengqwnbc
+[Thread 1] Original: qwtykdvjxg | Reversed: gxjvdkytwq
+[Thread 1] Original: rpbspddwsu | Reversed: uswddpsbpr
+[Thread 1] Original: cvvrroxgug | Reversed: gugxorrvvc
+[Thread 1] Original: ckeviqadza | Reversed: azdaqivekc
+[Thread 1] Original: lsppmespcl | Reversed: lcpsemppsl
+[Thread 1] Original: jgghxzvwgp | Reversed: pgwvzxhggj
+[Thread 1] Original: eibiflygra | Reversed: argylfibie
+[Thread 1] Original: gcsxrhdmwg | Reversed: gwmdhrxscg
+[Thread 1] Original: ximfpmemkm | Reversed: mkmempfmix
+[Thread 3] String: akzfcjywgm | Max Freq Letter: a (1)
+[Thread 3] String: eucowyvwcv | Max Freq Letter: c (2)
+[Thread 3] String: cnwlivewmo | Max Freq Letter: w (2)
+[Thread 3] String: loamtcwtae | Max Freq Letter: a (2)
+[Thread 3] String: heakuyisum | Max Freq Letter: u (2)
+[Thread 3] String: nyblkjjqgv | Max Freq Letter: j (2)
+[Thread 3] String: gtjgielgzn | Max Freq Letter: g (3)
+[Thread 3] String: mhunronbik | Max Freq Letter: n (2)
+[Thread 3] String: nwiojuxslf | Max Freq Letter: f (1)
+[Thread 3] String: ptbacjgnpg | Max Freq Letter: g (2)
+[Thread 3] String: cbnwqgnehv | Max Freq Letter: n (2)
+[Thread 3] String: qwtykdvjxg | Max Freq Letter: d (1)
+[Thread 3] String: rpbspddwsu | Max Freq Letter: d (2)
+[Thread 3] String: cvvrroxgug | Max Freq Letter: g (2)
+[Thread 3] String: ckeviqadza | Max Freq Letter: a (2)
+[Thread 3] String: lsppmespcl | Max Freq Letter: p (3)
+[Thread 3] String: jgghxzvwgp | Max Freq Letter: g (3)
+[Thread 3] String: eibiflygra | Max Freq Letter: i (2)
+[Thread 3] String: gcsxrhdmwg | Max Freq Letter: g (2)
+[Thread 3] String: ximfpmemkm | Max Freq Letter: m (4)
+
